@@ -1,4 +1,4 @@
-<b>NLP in Neswpaper articles <b>
+<b>NLP in Neswpaper articles </b>
 
 Pregraduate university team project for the class of Data Mining.
 The project had three goals:
